@@ -1,6 +1,6 @@
 # artursegal-wordpress
 
-Desenvolvido como teste para Editora Abril como teste para Desenvolvedor Web.
+Desenvolvido como teste para Editora Abril para Desenvolvedor Web.
 
 Autor: Artur Segal Kaim
 
